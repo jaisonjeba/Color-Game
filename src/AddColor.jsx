@@ -10,7 +10,7 @@ export function AddColor() {
       </div>
       <br />
       <hr />
-      <p className="para"> © created by Ajithkumar</p>
+      <p className="para"> © created by Jaison</p>
     </div>
   );
 }
